@@ -9,8 +9,8 @@ export function Navbar({ children }: { children: JSX.Element }) {
                 <hr className=' w-full bg-black h-1' />
                 <hr className=' w-full bg-black h-0.5' />
                 <div className='py-1 flex items-center justify-between  w-full px-5 align-middle  gap-2'>
-                    <span>Latest</span>
-                    <span> {getDate()}</span>
+                    <span><a href="https://github.com/Niteshsingh2001/thecodereport">Github</a></span>
+                    <span>{getDate()}</span>
                     <span className='flex'>
                         {children}
                     </span>

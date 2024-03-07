@@ -1,4 +1,7 @@
-# React + TypeScript + Vite
+# The Code Report 
+## Most awaited developer newsletter
+
+![Site Preview](/public/images/the_code_report.png "Site Preview")
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
