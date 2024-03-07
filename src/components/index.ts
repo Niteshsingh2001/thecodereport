@@ -1,0 +1,6 @@
+export * from "./navbar.component"
+export * from "./logo.componet"
+export * from "./image.component"
+export * from "./article.component"
+export * from "./footer.component"
+export * from "./joke.component"
