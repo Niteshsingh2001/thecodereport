@@ -1,6 +1,6 @@
 # The Code Report 
 ## Most awaited developer newsletter
-[Live Here] (https://thecodereport.pages.dev/)
+[Live Here](https://thecodereport.pages.dev/)
 
 
 ![Site Preview](/public/images/the_code_report.png "Site Preview")
