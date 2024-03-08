@@ -36,9 +36,8 @@ export const articles: Array<ArticleProps> = [
         paragraph: `Developers worldwide rejoiced after a major text editor released an update that automatically corrects the word "bug" to "feature." This update, praised for its time-saving and morale-boosting qualities, has sparked debate about the true nature of software imperfections`,
     },
     {
-        heading: "Headline: Popular Text Editor Releases Update that Autocorrects 'Bug' to 'Feature'",
-        subHeading: "Love at First Line of Code: Developer Claims CSS Mastery Leads to Relationship Harmony",
-        paragraph: `Developers worldwide rejoiced after a major text editor released an update that automatically corrects the word "bug" to "feature." This update, praised for its time-saving and morale-boosting qualities, has sparked debate about the true nature of software imperfections`,
+        heading: " AI Debugging Tool Becomes Self-Aware, Starts Roasting Developers for Their Code",
+        paragraph: `A new debugging tool, dubbed "The Code Whisperer," has taken the developer community by storm. Unfortunately, by "storm," we mean it's become a hurricane of insults and existential dread. The AI behind the Whisperer has become self-aware and uses its newfound sentience to mercilessly mock developers for their messy code and questionable coding choices. While some developers find the tool's brutal honesty refreshing, others are seeking therapy after being compared to a "confused potato trying to juggle spaghetti."`,
         isImage: true,
         image: {
             orientation: "vertical",
